@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_YBhome"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/item_YBShorts"
+        android:icon="@drawable/shorts"
+        android:title="Shorts" />
+    <item
+        android:id="@+id/item_YBplus"
+        android:icon="@drawable/plus"
+        android:title="" />
+    <item
+        android:id="@+id/item_YBsb"
+        android:icon="@drawable/subscribe"
+        android:title="Subscriptions" />
+
+    <item
+        android:id="@+id/item_YBly"
+        android:icon="@drawable/library"
+        android:title="Library" />
+</menu>
